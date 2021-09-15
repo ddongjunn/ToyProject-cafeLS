@@ -1,0 +1,11 @@
+1.압축풀기
+
+2.DB추가
+저장한 폴더에서 shfit + 오른쪽 마우스 클릭 -> [여기에 powershell 창 열기] ->db접속 -> 명령어 : source cafels.sql
+
+3.Server실행
+cmd 창 -> 명령어 :  java Server
+
+4.Client실행
+cmd 창 -> 명령어 : java Client
+
