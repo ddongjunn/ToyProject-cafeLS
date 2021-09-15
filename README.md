@@ -1,5 +1,5 @@
 # cafeLS
-자바 Swing, Socket, jdbc를 사용하여 만든 셀프 주문 시스템 키오스크입니다.
+자바 Swing, Socket, jdbc를 사용하여 만든 셀프 주문 시스템 (키오스크)입니다.
 
 ## 개발 기능
 Server
